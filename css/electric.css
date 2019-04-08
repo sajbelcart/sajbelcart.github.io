@@ -28,6 +28,14 @@ a{
 	color:#128989;
 }
 
+.link a {
+	color: #171E5E;
+}
+.link a:hover {
+	color: #777777;
+	text-decoration: none;
+}
+
 h2{
 	font-size: 20px;
 	font-family: italic;
