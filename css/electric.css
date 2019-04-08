@@ -38,9 +38,9 @@ a{
     display: block;
     margin: auto;
     width: 35%;
-    padding-top: 50px;
+    padding-top: 25px;
     padding-right: 100px;
-	padding-bottom:25px;
+	padding-bottom:0px;
 	min-width: 500px;
 	text-align: center;
 }
