@@ -20,6 +20,14 @@ body{
 	background-color: #ffffff;
 }
 
+a:hover {
+    color: #545454;
+    text-decoration: none;
+}
+a{
+	color:#128989;
+}
+
 h2{
 	font-size: 20px;
 	font-family: italic;
