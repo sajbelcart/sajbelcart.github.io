@@ -60,6 +60,18 @@ a{
 	min-width: 500px;
 	text-align: center;
 }
+
+.pics2 img{
+    display: block;
+    margin: auto;
+    width: 35%;
+    padding-top: 15px;
+    padding-right: 100px;
+	padding-bottom:0px;
+	min-width: 500px;
+	text-align: center;
+}
+
 p{  font-size:23px;
 	color:#128989;
 	font-family: italic;
