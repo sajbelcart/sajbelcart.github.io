@@ -54,9 +54,9 @@ a{
 .images img{
     display: block;
     margin: auto;
-    width: 180%;
+    width: 150%;
     padding-top: 15px;
-    padding-right: 80px;
+    padding-left: 100px;
 	padding-bottom:0px;
 	min-width: 500px;
 	text-align: center;
