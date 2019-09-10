@@ -50,23 +50,13 @@ a:hover {
 a{
 	color:#128989;
 }
-.pics img{
-    display: block;
-    margin: auto;
-    width: 35%;
-    padding-top: 15px;
-    padding-right: 100px;
-	padding-bottom:0px;
-	min-width: 500px;
-	text-align: center;
-}
 
 .images img{
     display: block;
     margin: auto;
-    width: 200%;
+    width: 180%;
     padding-top: 15px;
-    padding-right: 100px;
+    padding-right: 80px;
 	padding-bottom:0px;
 	min-width: 500px;
 	text-align: center;
