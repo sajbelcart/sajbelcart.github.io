@@ -57,9 +57,10 @@ a{
 .pics img{
     display: block;
     margin: auto;
-    width: 30%;
-	min-width: 300px;
+    width: 60%;
+	min-width: 400px;
 	text-align: center;
+	padding: 25px;
 }
 
 .link {  font-size:23px;
