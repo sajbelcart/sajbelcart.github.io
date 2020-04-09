@@ -35,13 +35,13 @@ a{
 	color:#128989;
 }
 
-.link a {
+/*.link a {
 	color: #171E5E;
 }
 .link a:hover {
 	color: #777777;
 	text-decoration: none;
-}
+}*/
 .link {  font-size:23px;
 	color:#128989;
 	font-family: italic;
@@ -49,6 +49,16 @@ a{
 padding-right: 100px;
 padding-top: 25px;
 padding-bottom: 25px;}
+
+.link a:hover {
+    color: #545454;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.link a{
+	color:#128989;
+}
 
 img{
     display: block;
