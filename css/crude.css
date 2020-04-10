@@ -81,7 +81,7 @@ padding-bottom: 25px;}
 	padding: 25px;
 }
 
-.link {  font-size:23px;
+.p {  font-size:23px;
 	color:#128989;
 	font-family: italic;
 	padding-left:100px;
@@ -89,10 +89,10 @@ padding-bottom: 25px;}
 	padding-top: 25px;
 }
 
-.link a {
+.p a {
 	color: #171E5E;
 }
-.link a:hover {
+.p a:hover {
 	color: #777777;
 	text-decoration: none;
 }
