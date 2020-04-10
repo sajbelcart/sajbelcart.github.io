@@ -35,7 +35,7 @@ a:hover {
 a{
 	color:#128989;
 	
-/*.link a {
+.link a {
 	color: #171E5E;
 }
 
@@ -52,24 +52,6 @@ a{
 	padding-right: 100px;
 	padding-top: 25px;
 	padding-bottom: 50px;}
-}*/
-
-.link {  font-size:18px;
-	font-family: italic;
-	padding-left:100px;
-	color: black;
-padding-right: 100px;
-padding-top: 25px;
-padding-bottom: 25px;}
-
-.link a:hover {
-    color: #128989;
-    text-decoration: none;
-    border-bottom: 1px solid;
-}
-
-.link a{
-	color:#128989;
 }
 
 .pics img{
