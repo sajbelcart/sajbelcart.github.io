@@ -45,13 +45,13 @@ a{
 	border-bottom: 1px solid;
 }
 .link {  
-	font-size:23px;
+	font-size:18px;
 	color: black;
 	font-family: italic;
 	padding-left:100px;
-	padding-right: 100px;
-	padding-top: 25px;
-	padding-bottom: 50px;}
+	padding-right:100px;
+	padding-top:25px;
+	padding-bottom:50px;}
 }
 
 .pics img{
