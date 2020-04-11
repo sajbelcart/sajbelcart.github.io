@@ -46,22 +46,22 @@ a{
 }
 
 .link a {
-	color: #171E5E;
+	color: #128989;
 }
+
 .link a:hover {
-	color: #777777;
+	color: #128989;
 	text-decoration: none;
+	border-bottom: 1px solid;
 }
-.link {  font-size:23px;
-	color:#128989;
+.link {  
+	font-size:18px;
+	color: black;
 	font-family: italic;
 	padding-left:100px;
-padding-right: 100px;
-padding-top: 25px;
-padding-bottom: 50px;
-}
-.link img{
-	width:80%"
+	padding-right:100px;
+	padding-top:25px;
+	padding-bottom:50px;}
 }
 
 h3{
