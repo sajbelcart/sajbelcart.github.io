@@ -37,11 +37,11 @@ a{
 .link img{
     display: block;
     margin: auto;
-    width: 60%;
+    width: 85%;
     padding-top: 0px;
-    padding-right: 75px;
+    padding-right: 25px;
 	padding-bottom:25px;
-	min-width: 300px;
+	min-width: 400px;
 	text-align: center;
 }
 
