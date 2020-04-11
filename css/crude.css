@@ -61,24 +61,10 @@ a{
     width: 60%;
 	min-width: 400px;
 	text-align: center;
-	padding: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
-.p {  font-size:23px;
-	color:#128989;
-	font-family: italic;
-	padding-left:100px;
-	padding-right: 100px;
-	padding-top: 25px;
-}
-
-.p a {
-	color: #171E5E;
-}
-.p a:hover {
-	color: #777777;
-	text-decoration: none;
-}
 h3{
 	font-size: 25px;
 	font-family: italic;
