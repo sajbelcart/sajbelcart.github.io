@@ -55,11 +55,11 @@ a{
 	padding-bottom:50px;}
 }
 
-.pics img{
+.link img{
     display: block;
     margin: auto;
-    width: 60%;
-	min-width: 400px;
+    width: 50%;
+	min-width: 100px;
 	text-align: center;
 	padding-left: 50px;
 	padding-right: 50px;
