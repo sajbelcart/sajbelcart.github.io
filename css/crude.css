@@ -36,6 +36,17 @@ a{
 	color:#128989;
 }
 	
+.link img{
+    display: block;
+    margin: auto;
+    width: 85%;
+    padding-top: 0px;
+    padding-right: 25px;
+	padding-bottom:25px;
+	min-width: 400px;
+	text-align: center;
+}
+
 .link a {
 	color: #128989;
 }
@@ -53,17 +64,6 @@ a{
 	padding-right:100px;
 	padding-top:25px;
 	padding-bottom:50px;}
-}
-
-.link img{
-    display: block;
-    margin: auto;
-    width: 50%;
-	min-width: 100px;
-	text-align: center;
-	padding-left: 50px;
-	padding-top:50px;
-	padding-right: 50px;
 }
 
 h3{
