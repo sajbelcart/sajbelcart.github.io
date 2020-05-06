@@ -56,13 +56,14 @@ a{
 	padding-bottom:50px;}
 }
 
-h3{
+h3 {
 	font-size: 25px;
 	font-family: italic;
 	color:#128989;
 	padding-left: 75px;
 	padding-bottom: 75px;
 }
+
 .full {
     width: 100%;	
 }
