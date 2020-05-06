@@ -22,11 +22,11 @@ body{
 }
 
 p {
-	font-size: 25px;
+	font-size: 18px;
 	padding-top: 25px;
 	padding-right: 50px;
 	padding-left: 50px;
-	color: #128989;
+	color: black;
 }
 
 .pics img {
