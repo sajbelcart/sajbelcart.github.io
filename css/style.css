@@ -1,0 +1,199 @@
+@font-face {
+    font-family: regular;
+    src: url("Avenir.otf");
+}
+
+@font-face {
+    font-family: av_bold;
+    src: url("AvenirBlack.otf");
+}
+
+@font-face {
+    font-family: av_med;
+    src: url("Avenir Medium.ttf");
+}
+
+@font-face {
+    font-family: av_ital;
+    src: url("AvenirItalic.ttf");
+}
+
+.header h1{
+	font-size:35px;
+	color:#0C3535;
+	font-family: av_bold;
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+.header p{
+	font-size:25px;
+	color: white;
+	padding-right: 20px;
+	font-family: regular;
+	margin:0px;
+	padding-left:0px;
+}
+
+body{
+	background-color: #ffffff;
+	font-family: regular;
+	color:black;
+}
+
+/*.wrapper {
+  display: grid;
+  grid-template-columns: 66.667% 33.334%;	
+}*/
+
+.header {
+  padding: 50px;
+  font-family:regular;
+  background: #447F87;
+  color: white;
+  font-size: 25px;
+}
+.header p{
+	color: white;
+	float: none;
+	font-size: 15px;
+}
+.header ul{
+	padding: 5px;
+}
+.header img{
+	padding-right:5px;
+}
+.header a{
+	color:white;
+	text-decoration: underline;
+	padding-right:15px;
+}
+
+.header a:hover {
+	color:#0C3535;
+}
+
+.other {
+	padding-top: 20px;
+	font-size: 15px;
+	font-family: regular;
+	color:black;
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
+.other a:hover{
+	font-family: av_bold;
+	color:#447F87;
+}
+
+.footer {
+	background: #447F87;
+	height: 120px;
+	padding: 50px;
+}
+
+.footer a{
+	color:white;
+	font-size: 15px;
+	font-family: regular;
+	text-decoration: underline;
+}
+.footer a:hover {
+	color:white;
+	font-size: 15px;
+	font-family: av_bold;
+	text-decoration: underline;
+}
+
+h3{
+	font-size: 18px;
+	font-family: regular;
+	color:#447F87;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.row2 img{
+	width: 40px;
+}
+.row2 {
+	font-size:17px;
+}
+
+a:hover {
+    font-family:av_bold;
+    color:#447F87;
+}
+
+a{
+	color:#447F87;
+	text-decoration: underline;
+}
+
+h4{
+	padding: 0px;
+	margin: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+.projects img {
+/*	padding-left: 50px;*/
+	justify-content: center;
+	margin-left: auto;
+  	margin-right: auto;
+/*	padding-right: 50px;*/
+	padding-bottom: 25px;
+}
+
+hr { margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+/*.projects img:hover {
+transform: scale(1.01);
+}*/
+
+img.award{
+	padding: 0px;
+	width: 2%;
+}
+
+h2{
+	font-family:av_med;
+	font-size:25px;
+	padding-bottom: 10px;
+	color: black;
+	margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+p{
+	font-size: 15px;
+	font-family: regular;
+	padding-bottom: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.descript {
+	font-size: 15px;
+	color: black;
+	font-family: av_med;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.projects {
+	text-align:center;
+}
